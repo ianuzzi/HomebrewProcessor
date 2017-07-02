@@ -1,4 +1,4 @@
-update=7/2/2017 11:04:00 AM
+update=7/2/2017 4:53:18 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=120
 [eeschema]
 version=1
-LibDir=
+LibDir=../Libraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,13 +70,3 @@ LibName28=contrib
 LibName29=valves
 LibName30=THS-Homebrew
 LibName31=7400-IC
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=120
